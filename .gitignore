@@ -44,3 +44,24 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Angular specific
+node_modules
+dist
+/tmp
+/out-tsc
+/.angular
+/.vscode
+/.idea
+
+# Environment files
+src/environments/environment*.ts
+
+# IDE specific
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
