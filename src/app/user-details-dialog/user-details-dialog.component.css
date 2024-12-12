@@ -1,0 +1,17 @@
+.center-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .center-buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    margin: 0 8px;
+  }
+  
